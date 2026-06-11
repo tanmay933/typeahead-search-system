@@ -3,9 +3,9 @@ spring:
     name: typeahead-backend
 
   datasource:
-    url: jdbc:mysql://localhost:3306/typeahead_db
+    url: jdbc:mysql://mysql:3306/typeahead
     username: root
-    password:
+    password: root
 
   jpa:
     hibernate:

@@ -387,6 +387,13 @@ http://localhost:5173
 
 ---
 
+# Typeahead Search
+
+## Run with Docker
+
+```bash
+docker compose up --build
+
 # 📚 Key Engineering Concepts Demonstrated
 
 * Distributed caching
