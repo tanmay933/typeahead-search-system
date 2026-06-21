@@ -413,3 +413,22 @@ docker compose up --build
 This project demonstrates how a modern autocomplete system can be designed using scalable backend concepts while maintaining fast and responsive user experience.
 
 Although simplified for academic purposes, the architecture mirrors several real-world engineering patterns used in production search systems.
+
+---
+
+# 👨‍💻 Author
+
+**Tanmay Mittal**
+
+Computer Science Student | Scaler School of Technology × BITS Pilani
+
+Built as part of my learning journey in:
+- Backend Development
+- Distributed Systems
+- Caching Strategies
+- System Design
+- Full-Stack Engineering
+
+GitHub: https://github.com/tanmay933
+
+---
